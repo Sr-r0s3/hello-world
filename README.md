@@ -1,2 +1,5 @@
 # hello-world
-just another repository
+
+Hi Humans!
+
+r0s3 here, "creator" of hello world and this is my first repository and thanks to everyone who sees it :)
